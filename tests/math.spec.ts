@@ -1,10 +1,8 @@
-import {
-  powerOf,
+import {powerOf,
   root,
-  m,
+                    m,
   hypotensuse,
-  substract,
-  sum,
+  substract,sum,
   cosine,
   sum2,
 } from "../src/math";
