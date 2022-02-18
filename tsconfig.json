@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "target": "es5",
+        "outDir": "build",
+        "rootDir": "src",
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "skipLibCheck": true,
+    },
+    "exclude": [
+      "./node_modules",
+      "./build",
+      "./coverage",
+      "./tests"
+    ],
+    "include": [
+      "src"
+    ]
+}
