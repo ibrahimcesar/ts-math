@@ -56,4 +56,4 @@ You can also check in your browser a report saved at `./coverage/index.html`:
 ## Challenges
 
 - [ ] Clean the code!
-- [ ] Make at least 10 green tests
+- [ ] Make tests go green!
