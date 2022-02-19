@@ -57,5 +57,3 @@ You can also check in your browser a report saved at `./coverage/index.html`:
 
 - [ ] Clean the code!
 - [ ] Make at least 10 green tests
-- [ ] Improve the test coverage
-- [ ] Make a Pull Request
