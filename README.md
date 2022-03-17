@@ -71,7 +71,7 @@ Inglês faz parte da síntaxe de nossas linguagens. É sempre bom exercitar a li
   
 </div>
 
-Desafio do quarto episódio sobre _Clean Code_ do [**Show me the code**](https://lp.rocketseat.com.br/inscricao/showmethecode), o único reality show educativo no universo da programação, que vai revelar os elementos de um ambiente de alto nível, para que você possa usar isso na sua carreira. Criado pela [RocketSeat](https://www.rocketseat.com.br/)
+Desafio do quarto episódio sobre _Clean Code_ do [**Show me the code**](https://lp.rocketseat.com.br/inscricao/showmethecode), o único reality show educativo no universo da programação, que vai revelar os elementos de um ambiente de alto nível, para que você possa usar isso na sua carreira. Criado pela [RocketSeat](https://www.rocketseat.com.br/)!
 
 
 ## MIT License
