@@ -55,6 +55,10 @@ You can also check in your browser a report saved at `./coverage/index.html`:
 
 ## Challenges
 
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
+>
+> ― Martin Fowler
+
 - [ ] Clean the code!
 - [ ] Make tests go green!
 - [ ] Open a PR!
