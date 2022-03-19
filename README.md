@@ -59,9 +59,9 @@ You can also check in your browser a report saved at `./coverage/index.html`:
 >
 > ― Martin Fowler
 
-- [ ] Clean the code!
-- [ ] Make tests go green!
-- [ ] Open a PR!
+- [X] Clean the code!
+- [X] Make tests go green!
+- [X] Open a PR!
 
 ## The book is on the screen
 
